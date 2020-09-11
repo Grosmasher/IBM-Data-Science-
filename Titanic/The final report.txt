@@ -2,7 +2,7 @@ TITANIC SURVIVAL EVALUATION
 
 1	Introduction/Business Problem.
 
-The problem is simple: to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck based on the information provided about the passengers. This is not a secret that first class passengers were the ones who mostly survived, but the idea is to find more factors (other than the class of the ticket) that could influence the survival of a given passenger.
+The problem is simple: to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck based on the information provided about the passengers. This is not a secret that first class passengers were the ones who mostly survived, but the idea is to find more factors (other than the class of the ticket) that could influence the survival of a given passenger. This is merely a theoretical problem to train the skills of building the models, to try different methods.
 
 2	Data.
 
